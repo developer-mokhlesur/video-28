@@ -1,1 +1,69 @@
-# video-28
+
+@media only screen and (max-width:1400px){
+    .banner-content h1 {
+        font-size: 50px;
+        font-weight: 500;
+    }
+    .banner-content {
+        margin-top: 131px;
+    }
+    .btn-1 {
+        margin-bottom: 5%;
+    }
+}
+@media only screen and (max-width:1200px){
+    .banner-content {
+        margin-top: 62px;
+        padding: 0;
+    }
+}
+@media only screen and (max-width:992px){
+    .banner-content h1 {
+        font-size: 40px;
+    }
+    .banner-content {
+        margin-top: 42px;
+    }
+    .about-content button.btn-4 {
+        margin: auto;
+        margin-bottom: 4%;
+    }
+    .about-content p {
+        padding-bottom: 1rem;
+    }
+}
+@media only screen and (max-width:768px){
+    .banner .col-md-12{
+        width: 100%;
+        text-align: center;
+    }
+    .protien .protien-items{
+        margin-bottom: 4%;
+    }
+    .about-content button.btn-4 {
+        margin: auto;
+        margin-bottom: 4%;
+    }
+    .about-content p {
+        padding-bottom: 1rem;
+    }
+    .content-right h2 {
+        font-size: 3.375rem;
+    }
+}
+@media only screen and (max-width:576px){
+    .banner-content h1 {
+        font-size: 30px;
+    }
+    .content-right h2 {
+        font-size: 2rem;
+    }
+}
+@media only screen and (max-width:400px){
+    .btn-1 {
+        padding: 12px 15px;
+    }
+    .banner-content h1 {
+        font-size: 25px;
+    }
+}
